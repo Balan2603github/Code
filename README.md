@@ -1,3 +1,6 @@
+#pip install qrcode
+#install qrcode main pack from file-->settings-->projectname-->interpreter-->search for qrcode and install.
+
 import qrcode
 
 input_URL = "https://github.com/"
